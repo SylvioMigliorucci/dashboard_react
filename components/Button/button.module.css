@@ -1,0 +1,18 @@
+.container {
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: white;
+}
+.container:hover{
+    background-color: #fff;
+    color: blue;
+    border: navy;
+}
+
